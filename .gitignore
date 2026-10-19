@@ -1,0 +1,12 @@
+/config.local.json
+/personal/
+/applications/
+/build/
+/.venv/
+__pycache__/
+*.py[cod]
+*.pdf
+*.png
+.DS_Store
+.env
+.env.*

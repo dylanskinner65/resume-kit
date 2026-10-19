@@ -1,0 +1,18 @@
+{
+  "max_pages": 1,
+  "required_text": [
+    "Alex Morgan",
+    "Co-built a TypeScript agent SDK with one teammate",
+    "32%",
+    "88% to 92%",
+    "18%",
+    "two internal engineering teams",
+    "B.S. Computer Science"
+  ],
+  "expected_links": [
+    "mailto:alex@example.com",
+    "https://example.com",
+    "https://example.com/projects/support-search",
+    "https://example.com/talks/agent-evaluation"
+  ]
+}
